@@ -6,4 +6,10 @@
 
 h1 {
   color: palevioletred;
+  margin: 1rem;
+}
+
+.add{
+    font-size: 34px;
+    margin: 1rem;
 }
