@@ -4,6 +4,8 @@
 
 > This is my Capstone project for Module 1 at Microverse.
 
+# Project Name
+* TAL-ART CONFERENCE 2022
 
 ## Built With
 
@@ -17,41 +19,17 @@
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+# Prerequisite
+* Modern Browser.Example: Firefox, chrome.
+* Windows 7 and above, MacOs, linux and android.
+# SET UP
+* Download the folder and click on index.html
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+# AUTHOR
+👤 Aneal Laryea
+* Github: [@aneallaryea](https://github.com/aneallaryea100)
+* LinkdIn: [@aneallaryea](https://www.linkedin.com/in/nii-aneal-84ba7a147)
+* Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 
 ## 🤝 Contributing
 
@@ -65,9 +43,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This project was inspired from the original project of Cindy Shin.
+- The link to the project (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 ## 📝 License
 
