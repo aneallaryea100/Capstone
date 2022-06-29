@@ -18,6 +18,9 @@
 
 [Live Demo Link](https://aneallaryea100.github.io/Capstone/)
 
+## Link to the video explanation
+* https://www.loom.com/share/327d98f5b2b44c409be8edc3a1f0ab65
+
 
 # Prerequisite
 * Modern Browser.Example: Firefox, chrome.
