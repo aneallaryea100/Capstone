@@ -47,8 +47,9 @@ ul {
 
 .topitem {
   color: #fff;
-  margin: 0 1rem;
+  margin: 0.3rem 1rem;
   font-weight: lighter;
+  font-size: 1rem;
 }
 
 .logo {
@@ -135,7 +136,7 @@ ul {
   background-repeat: repeat-x;
   background-position: 100%;
   padding: 3rem 0 5rem 0;
-  margin-bottom: -5rem;
+  margin-bottom: -5.4rem;
 }
 
 .aheader {
@@ -195,8 +196,6 @@ ul {
 
 .maintxt {
   text-align: center;
-
-  /* margin-top: 2rem 0; */
   border-bottom: 1px solid #ec5242;
   width: 15rem;
   margin: 0 auto;
@@ -232,8 +231,7 @@ ul {
 }
 
 .litcon {
-  width: 2rem;
-  border-radius: 50%;
+  width: 4rem;
 }
 
 .littext {
@@ -656,7 +654,6 @@ ul {
 
   .litcon {
     width: 4rem;
-    border-radius: 50%;
   }
 
   .divmess {
