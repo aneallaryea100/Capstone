@@ -2,7 +2,7 @@
 
 # Capstone Project
 
-> This is my Capstone project for Module 1 at Microverse.
+> This is my Capstone project for Module 1 at Microverse. This website is about a conference name TAL-ART. TAL-ART conference 2022 is about recognising talents in the art and entertainment industry. I used the guidlines template of an online conference created by Cindy Shin. This is the website created by Cindy Shin https://summit.cckorea.org/introduce.html#
 
 # Project Name
 * TAL-ART CONFERENCE 2022
@@ -14,12 +14,12 @@
 - JAVASCRIPT
 - VSCODE
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://aneallaryea100.github.io/Capstone/)
 
 ## Link to the video explanation
-* https://www.loom.com/share/327d98f5b2b44c409be8edc3a1f0ab65
+* https://www.loom.com/share/d1630c6822c34536ba726a332c36d635
 
 
 # Prerequisite

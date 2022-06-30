@@ -321,8 +321,15 @@ ul {
 
 .dftxt {
   font-size: medium;
-  font-weight: lighter;
+  font-weight: 500;
   margin: 2rem;
+}
+
+.dftxt1 {
+  font-weight: bolder;
+  margin: 2rem;
+  color: #272a31;
+  font-size: large;
 }
 
 .daftxt {
@@ -440,6 +447,7 @@ ul {
 
 .prevconfrence {
   text-align: center;
+  padding: 3rem 0;
 }
 
 .conpast {
@@ -494,7 +502,7 @@ ul {
 .abtpartners {
   background-color: #272a31;
   display: block;
-  margin-top: -1.2rem;
+  margin-top: -1.9rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -578,6 +586,7 @@ ul {
   .secondmain {
     background-color: #fff;
     margin-top: -2.9rem;
+    padding: 2rem 0;
   }
 
   .headcontain {
