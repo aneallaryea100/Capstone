@@ -8,7 +8,7 @@
 * TAL-ART CONFERENCE 2022
 
 ## Image preview
-![tarlartiamge](./asset/image/newtalart.png)
+![tarlartiamge](./asset/image/newtarlartss.png)
 
 ## Built With
 
